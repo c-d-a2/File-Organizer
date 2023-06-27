@@ -29,4 +29,4 @@ This script helps you organize your files in any specified directory based on th
 
 #Note
 
-This script is currently intended to be used on systems with Python 3 installed and supporting the command line arguments format provided in the usage section. Be careful while providing the directory path, a wrong path could lead to FileNotFoundError and dont forget to back up your registry. Im also working on improving it and making it more customizable.
+This script is currently intended to be used on systems with Python 3 installed and supporting the command line arguments format provided in the usage section. Be careful while providing the directory path, a wrong path could lead to FileNotFoundError and dont forget to BACKUP your registry. Im also working on improving it and making it more customizable.
