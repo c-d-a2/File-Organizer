@@ -17,13 +17,15 @@ This script helps you organize your files in any specified directory based on th
 
     Clone this repository or download the organize_files.py script.
 
-    Open your terminal/command prompt.
+    Open your Admin terminal/command prompt.
 
     Change directory to where the organize_files.py script is located. For example, if it's in your Downloads folder:
     cd ~/Downloads
 
     Run the script with the target directory as a command line argument. For example, if you want to organize files in a directory called MyFiles on your desktop:
-    python3 organize_files.py ~/Desktop/MyFiles
+    python3 organize_files.py ~/Desktop/MyFiles.You just have to run it once on the command line interface , this will add "Sort Files" as an option in the context menu which will enable you to execute the command 
+    on any other directory when you right click on the directory's background. 
+
 
     The script will organize the files in the specified directory into subdirectories based on their file types.
 
