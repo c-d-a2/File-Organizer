@@ -1,4 +1,4 @@
-#File Organizer Script
+# File Organizer Script
 
 This script helps you organize your files in any specified directory based on their file types (extensions). Files are moved into directories named after their category. The current categories are:
 
@@ -11,7 +11,7 @@ This script helps you organize your files in any specified directory based on th
     Application
     Others (for any file types not covered by the above categories)
 
-#How to Use
+# How to Use
 
     Make sure you have Python 3 installed on your system. You can download it from the official Python website.
 
@@ -29,6 +29,6 @@ This script helps you organize your files in any specified directory based on th
 
     The script will organize the files in the specified directory into subdirectories based on their file types.
 
-#Note
+# Warning
 
-This script is currently intended to be used on systems with Python 3 installed and supporting the command line arguments format provided in the usage section. Be careful while providing the directory path, a wrong path could lead to FileNotFoundError and dont forget to BACKUP your registry. Im also working on improving it and making it more customizable.
+This script is currently intended to be used on systems with Python 3 installed and supporting the command line arguments format provided in the usage section. Be careful while providing the directory path, a wrong path could lead to FileNotFoundError and dont forget to BACKUP your registry or create system restore point.
